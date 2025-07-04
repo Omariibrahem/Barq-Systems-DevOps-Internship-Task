@@ -26,7 +26,7 @@ A CLI-based tool to analyze and visualize subnet and IP data from Excel files.
 
 ```
 
-barq-devops-subnet-task/
+## barq-devops-subnet-task/
 ├── Dockerfile                            # Docker build file
 ├── ip_data.xlsx                          # Sample input 
 ├── main.py                               #  options menu 
