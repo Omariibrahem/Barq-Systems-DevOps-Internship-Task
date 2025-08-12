@@ -1,6 +1,4 @@
----
 
-```markdown
 # 🛰️ Subnet Analyzer
 
 A small CLI tool to analyze and visualize subnet and IP data from Excel (`.xlsx`) files.
