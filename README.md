@@ -1,7 +1,3 @@
-Nice — I’ll make this README friendlier, more robust, and cross-platform so anyone (Windows / macOS / Linux) can run your Subnet Analyzer with minimal fuss — and so it’s Docker-friendly for environments that don’t want to install system deps.
-
-Below is a polished, ready-to-paste `README.md`. It includes local install instructions for all OSes, a Docker quick start (recommended for consistency), non-interactive tips (for CI), troubleshooting, file format examples, and a short CONTRIBUTING / License block.
-
 ---
 
 ```markdown
